@@ -36,7 +36,7 @@ This script reproduces all figures, tables, and results from the paper.
 
 ## Software Requirements
 
-The analysis requires **Python 3.x** and the following packages:
+The analysis requires **Python 3.10** and the following packages:
 
 pandas==1.1.3
 numpy==1.19.5
@@ -46,7 +46,7 @@ matplotlib==3.3.2
 statsmodels==0.13.5
 stata_setup==0.1.3
 
-A standard **Anaconda environment** works well. You can use the provided `requirements.txt` to set up your environment.
+A standard **Anaconda environment** works well. One can use the `requirements.txt` to set up the environment.
 
 ---
 
