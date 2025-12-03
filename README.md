@@ -9,12 +9,9 @@ The study evaluates whether food insecurity analyses conducted through the **Int
 
 Because humanitarian agencies rely heavily on IPC outputs, understanding their internal consistency has direct implications for funding decisions, early warning, and food security research.
 
----
-
 ## Repository Structure
 ├── script/ │ └── inside_the_blackbox_replication_code.ipynb # full replication script │ ├── stores/ # restricted .csv data files (not included) │ └── *.csv (placeholder only; data not sharable) │ ├── figures/ # figures produced by the replication script └── outputs/ # tables, model outputs, diagnostics
 
----
 
 ## Data Availability
 
@@ -38,7 +35,6 @@ This script reproduces all figures, tables, and results from the paper.
    `stores/`
 3. Open and run:
    `script/inside_the_blackbox_replication_code.ipynb`
-4. Outputs will be written to the `figures/` and `outputs/` directories.
 
 ---
 
